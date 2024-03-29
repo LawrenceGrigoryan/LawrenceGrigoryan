@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on LLMs at neiro.ai
+- 🔭 I’m currently working at neiro.ai as an NLP/ML Engineer
 - 🌱 I’m also currently studying for Data Analytics Master's degree at the University of Hildesheim
 - 💬 Feel free to contact me via email *glavrentiy123@gmail.com* or telegram *@lawrence_grig*
 
