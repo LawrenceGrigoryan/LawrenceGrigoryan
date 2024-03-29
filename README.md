@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on LLMs at neiro.ai
+- 🌱 I’m also currently studying for Data Analytics Master's degree at the University of Hildesheim
+- 💬 Feel free to contact me via email *glavrentiy123@gmail.com* or telegram *@lawrence_grig*
+
 <!--
 **LawrenceGrigoryan/LawrenceGrigoryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
