@@ -26,7 +26,7 @@
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=flat-square&logo=ONNX&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logoColor=white&style=flat-square&logo=GItHub-Actions)
-![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab%CI/CD-2088FF?logoColor=orange&style=flat-square&logo=Gitlab-CI/CD)
+![Gitlab CI/CD](https://img.shields.io/badge/Gitlab-CI/CD-2088FF?logoColor=orange&style=flat-square&logo=Gitlab-CI/CD)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=Pytest&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040.svg?style=flat-square&logo=pre-commit&logoColor=black)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA.svg?style=flat-square&logo=Poetry&logoColor=white)
