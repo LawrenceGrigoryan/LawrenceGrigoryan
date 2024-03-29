@@ -56,7 +56,7 @@
 
 #### Other
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
-![Gradio]: https://img.shields.io/badge/Gradio-232F3E?logoColor=white&style=flat-square)
+![Gradio](https://img.shields.io/badge/Gradio-232F3E?logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
