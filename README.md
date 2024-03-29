@@ -43,8 +43,7 @@
 
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/transformers-%23EE4C2C.svg?style=flat-square&logo=transformers&logoColor=white)
-[![Hugging Face Transformers](https://img.shields.io/badge/Transformers-Hugging%20Face-ff0066?style=flat&logo=huggingface)](https://github.com/huggingface/transformers)
+![Transformers](https://img.shields.io/badge/transformers-%23EE4C2C.svg?style=flat-square&logo=https://huggingface.co/front/assets/hugging_face_logo.svg)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=Lightning&logoColor=white)
 ![Wandb](https://img.shields.io/badge/WandB-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
