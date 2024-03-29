@@ -54,22 +54,17 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=Google-Colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
 
-#### Miscellaneous
+#### Other
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
-![VSC](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=flat-square&logo=dotenv&logoColor=black)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F.svg?style=flat-square&logo=tmux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?style=flat-square&logo=Vim&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808.svg?style=flat-square&logo=FFmpeg&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff&style=flat-square)
-![Protobuf](http://img.shields.io/badge/-<>%20Protobuf-00A98F?style=flat-square&logo=grpc&logoColor=ffffff)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=flat-square&logo=YAML&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-9C4121.svg?style=flat-square&logo=TOML&logoColor=white)
-![Diagrams](https://img.shields.io/badge/Diagrams.net-F08705.svg?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=flat-square)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
