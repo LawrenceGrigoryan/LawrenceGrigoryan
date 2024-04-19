@@ -22,7 +22,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat-square&logo=Grafana&logoColor=white)
 ![NVIDIA Triton](https://img.shields.io/badge/Triton%20Inference%20Server-8fce00?style=flat-square&logo=NVIDIA&logoColor=white)
-![Text Generation Inference](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat-square&logoColor=yellow)
+![Text Generation Inference](https://img.shields.io/badge/%F0%9F%A4%97%20Text%20Generation%20Inference-yellow?style=flat-square&logoColor=yellow)
 ![TorchScript](https://img.shields.io/badge/TorchScript-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED.svg?style=flat-square&logo=ONNX&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=flat-square&logo=DVC&logoColor=white)
