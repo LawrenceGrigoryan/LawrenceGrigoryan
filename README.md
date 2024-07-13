@@ -47,6 +47,7 @@
 
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=Lightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat-square&logoColor=yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-0078D4?style=flat-square&logo=link&logoColor=white)
