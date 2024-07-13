@@ -48,7 +48,7 @@
 #### DL & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-007ACD?style=flat-square&logo=JAX&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-007ACD?style=flat-square&logo=JAX&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAwCAYAAADXx9M7AAABjklEQVR4Ae3YMUoDURSF4Y9ukFYpUcoMuwWpIaW8gMN4ghIJCKkRyyV7s0JFB0sVwio0JNR6wqXr9H2VLDm/+STdvR+rxHJEnHD4+OCZMh+Q7htFODmoT3heh0ngPMOiHgPzC4zwwT+BT+DhgK+AHs6BTiBhgI+AkM/An5fnl4DCjS/F1YCz8An4EEtPC3ak8M44Cfxk1XuEVYI9eRnLidgBZgNmK6OEUeBVYHKyAn8M1MyIq8E6+BdVgQfVjQHhMN9IULOBtdRsLiO+BZcCsxFfghvLBHgafQDE3oiPwNMai4DC9+hldxBp4B9tzPglPhGoK/NFi0PBjQBr7gj4bDKkqLwUSuOD24AjxMZZ88h5f3wSw/CTZ7BSscAt4nKwA3QGdeA5axB/iP3wLlxB6VgJdjwgn4BCuI6LwGJkLS8DAHupGh9A38F68p+43OmlWEX1k/Q5dJvhYvJl6vAfF+bRftlV78cHVrg6XJPt50y+ZP5VVjAxSzhvDgVLEb3HukMEWyb8AAAAAElFTkSuQmCC)
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=Lightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat-square&logoColor=yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-0078D4?style=flat-square&logo=link&logoColor=white)
