@@ -60,6 +60,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat-square&logo=Plotly&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=flat-square&logo=Google-Colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 #### Other
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
