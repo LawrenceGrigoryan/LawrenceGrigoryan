@@ -54,7 +54,7 @@
 ![Lightning](https://img.shields.io/badge/Lightning-792EE5.svg?style=flat-square&logo=Lightning&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=flat-square&logoColor=yellow)
 ![LangChain](https://img.shields.io/badge/LangChain-0078D4?style=flat-square&logo=link&logoColor=white)
-![Unsloth](https://img.shields.io/badge/unsloth-2E8B57.svg?style=flat-square&logo=sloth&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-2E8B57.svg?style=flat-square&logo=sloth&logoColor=white)
 ![Wandb](https://img.shields.io/badge/WandB-FFBE00.svg?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=NumPy&logoColor=white)
