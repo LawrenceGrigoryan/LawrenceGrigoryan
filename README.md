@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 👨🏻‍💻 I work at **neiro.ai** as an NLP/ML Engineer (mostly on LLMs and other NLP applications)
+- 👨🏻‍💻 I work at **IAV GmbH** as an AI Engineer
 - 🎓 I also study Data Analytics Master's degree at the **University of Hildesheim, Germany**
 - 💬 Feel free to contact me via email **glavrentiy123@gmail.com** or telegram **@lawrence_grig**
 
